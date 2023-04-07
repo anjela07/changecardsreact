@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/changecardsreact/static/css/main.681530f1.css",
+    "main.js": "/changecardsreact/static/js/main.a4a66c36.js",
+    "index.html": "/changecardsreact/index.html",
+    "main.681530f1.css.map": "/changecardsreact/static/css/main.681530f1.css.map",
+    "main.a4a66c36.js.map": "/changecardsreact/static/js/main.a4a66c36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.681530f1.css",
+    "static/js/main.a4a66c36.js"
+  ]
+}
